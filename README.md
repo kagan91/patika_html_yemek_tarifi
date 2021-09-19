@@ -1,3 +1,4 @@
-## Html ve Css etiketleri kullanılarak basit anlamda bir yemek tarifi sayfası oluşturuldu.
+# Html ve Css etiketleri kullanılarak basit anlamda bir yemek tarifi sayfası oluşturuldu.
 
-![](yemek_tarifi.png)
+[<img src="yemek_tarifi.png" width="1050"/>](yemek_tarifi.png)
+
